@@ -6,12 +6,11 @@
 </div>
 
 ## Idea
-Car sharing is one of the earliest implementations of a *shared economy* and promises to be a very useful and eco-friendly way for individual transportation. There are, however
-certain challenges that impede the acceptance of this service. One such challenge is an incorrect distribution of cars around a city, in which the geolocational 
+Car sharing is one of the earliest implementations of a *shared economy* and promises to be a very useful and eco-friendly way for individual transportation. There are, however, certain challenges that impede the acceptance of this service. One such challenge is an incorrect distribution of cars in a city, in which the geolocational 
 demand for cars does not coincide with their actual locations. 
 
 ## Implementation
-Certainly, this is just one example of many. In order to account for these problems and simulate the dynamics 
+Certainly, this is just one problem out of many. In order to account for these problems and simulate the dynamics 
 of car sharing in a city, it is handy to simulate it in a computer programme, where one could apply interesting interventions to change people's behaviour, guiding them 
 to leave/re-distribute cars to more optimal locations in a city. For instance, one could think of providing small nudges (e.g. monetary incentives) for leaving a 
 shared car in a sub-optimal location for an individual's purpose, yet in a more optimal location for matching public demand. 
